@@ -61,10 +61,3 @@ http://localhost:3000
 - Switch from file-based I/O to API-based communication with the backend.
 
 ---
-
-## 📷 Demo & Screenshots
-
-> ## 📸 Screenshot
-
-![Chatbot Interface]("C:\Users\Meghana\OneDrive\Desktop\OneDrive\Pictures\Screenshots\Screenshot (227).png")
-
