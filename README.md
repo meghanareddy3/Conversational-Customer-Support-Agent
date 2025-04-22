@@ -1,6 +1,4 @@
-Here's a refined and complete version of your `README.md` with well-structured sections and explanations:
 
----
 
 # 🧠 AI Customer Support Chatbot (Next.js)
 
@@ -59,5 +57,3 @@ http://localhost:3000
 - Add support for user authentication and chat history.
 - Deploy via serverless functions or containerized services for scalability.
 - Switch from file-based I/O to API-based communication with the backend.
-
----
