@@ -64,8 +64,7 @@ http://localhost:3000
 
 ## 📷 Demo & Screenshots
 
-> _Optional: Add a short demo video or screenshots here to show the chatbot in action._
+> ## 📸 Screenshot
 
----
+![Chatbot Interface]("C:\Users\Meghana\OneDrive\Desktop\OneDrive\Pictures\Screenshots\Screenshot (227).png")
 
-Let me know if you want this in a downloadable `README.md` file or want to tweak anything for your specific repo!
